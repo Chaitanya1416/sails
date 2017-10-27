@@ -6,7 +6,7 @@
 
 [![NPM version](https://badge.fury.io/js/sails.svg)](http://badge.fury.io/js/sails) &nbsp; [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/balderdashy/sails)  &nbsp; [![Twitter Follow](https://img.shields.io/twitter/follow/sailsjs.svg?style=social&maxAge=3600)](https://twitter.com/sailsjs)
 
-Sails.js is a [web framework](http://sailsjs.com/whats-that) that makes it easy to build custom, enterprise-grade Node.js apps. It is designed to resemble the MVC architecture from frameworks like Ruby on Rails, but with support for the more modern, data-oriented style of web app & API development. It's especially good for building realtime features like chat.
+Sails.js is a [web framework](http://sailsjs.com/whats-that) that makes it easy to build custom, enterprise-grade Node.js apps. It is designed to resemble the MVC architecture from frameworks like Ruby on Rails, but with support to the more modern, data-oriented style of web app & API development. It's especially good for building realtime features like chat.
 
 
 ## Installation &nbsp;
